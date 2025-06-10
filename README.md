@@ -20,3 +20,26 @@ This project is a beginner-friendly implementation of a simple LLM (Large Langua
    ```bash
    git clone https://github.com/your-username/llm-app-framework.git
    cd llm-app-framework
+
+## 🛠 Technologies Used
+
+- Python  
+- LangChain  
+- LangSmith  
+- OpenAI API (or other LLM provider)  
+- Jupyter Notebook  
+
+## 📈 Observability with LangSmith
+
+LangSmith is integrated into this project to provide visibility into prompt performance, model outputs, and errors. Traces can be viewed in the LangSmith dashboard for improved debugging and refinement.
+
+## 🙏 Acknowledgements
+
+This project is based on an official tutorial by **LangChain**.  
+Credit to the LangChain team for their excellent documentation and educational resources.  
+Tutorial link: [LangChain documentation](https://docs.langchain.com/)
+
+## 📄 License
+
+This project is for educational purposes. Refer to the LangChain and LangSmith licenses for usage of those tools.
+
